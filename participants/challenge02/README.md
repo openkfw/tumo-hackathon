@@ -14,7 +14,7 @@ Nachdem wir nun ein grundlegendes Verständnis von Versionskontrolle und Git hab
 
 1. Beginnt damit, das GitHub-Repository, das euer Team in der vorherigen Herausforderung erstellt hat, auf euren lokalen Computer zu klonen ([hint](https://help.github.com/en/articles/cloning-a-repository)).
 
-2. Ladet als Nächstes [den Code herunter](https://github.com/openkfw/hackathon).
+2. Ladet als Nächstes [den Code herunter](https://github.com/openkfw/tumo-hackathon-app).
 
 3. Übertragt (Pusht) schließlich die Dateien in euer GitHub-Repository mit eurem bevorzugten Git-Client.
 
